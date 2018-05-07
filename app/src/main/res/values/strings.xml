@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Swan</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="add_rule">add notification rule</string>
+    <string name="clear_rules">clear all rules</string>
+    <string name="set_rule">set up a notification rule</string>
+    <string name="surf_spot">Surf Spot:</string>
+    <string name="notifications_enabled">Notifications Enabled</string>
+    <string name="notifications_disabled">Notifications Disabled</string>
+    <string name="minimum_stars">Minimum Stars:</string>
+    <string name="rules_name">Rule\'s Name:</string>
+    <string name="minimum_wave_height">Minimum Wave Height:</string>
+    <string name="set_to_default">set to default</string>
+    <string name="rule_s_description">Rule\'s Description:</string>
+    <string name="rule_s_title">Rule\'s Title:</string>
+</resources>

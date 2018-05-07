@@ -1,0 +1,14 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="250.0dp"
+    android:minHeight="40.0dp"
+    android:minResizeWidth="250.0dp"
+    android:minResizeHeight="40.0dp"
+    android:resizeMode="horizontal"
+    android:updatePeriodMillis="1800000"
+    android:initialLayout="@layout/my_widget"
+    android:widgetCategory="home_screen|keyguard"
+    android:previewImage="@mipmap/icon"
+    android:configure="itai.swan.widget.ConfigurationActivity">
+    <!--    android:minResizeWidth="146.0dp"
+        android:minResizeHeight="72.0dp"-->
+</appwidget-provider>

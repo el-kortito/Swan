@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorText">#e4e1ad</color>
+    <color name="colorTitle">#d2d2d2</color>
+    <color name="mswSolidStars">#3DAFEB</color>
+    <color name="mswFadedStars">#B5E1FF</color>
+
+    <color name="lightGrey">#e2e2e2</color>
+    <color name="darkGrey">#565656</color>
+    <color name="notification_activity_text">#eae49c</color>
+</resources>

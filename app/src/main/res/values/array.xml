@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="listArray">
+        <item>HaHof-HaMa\'aravi</item>
+        <item>Puerto-Escondido</item>
+        <item>Rio-Nexpa</item>
+    </string-array>
+
+    <integer-array name="surfSpotCodes">
+        <item>3663</item>
+        <item>334</item>
+        <item>340</item>
+    </integer-array>
+
+
+    <string-array name="surfSpotNames">
+        <item>Tel-Aviv (Maaravi)</item>
+        <item>Puerto-Escondido</item>
+        <item>Rio-Nexpa</item>
+    </string-array>
+
+
+</resources>
